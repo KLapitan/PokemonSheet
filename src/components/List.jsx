@@ -26,4 +26,4 @@ return (
 
 )
 }
-export default PokemonList;
+export default PokemonList
